@@ -53,9 +53,9 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript. I 
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://github.com/The-Arshad-Khan/The-Arshad-Khan)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
+| [My Portfolio Website](https://the-arshad-khan.github.io/AK-PP/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
 | [Elearn Website -bigB](https://github.com/The-Arshad-Khan/BigB-E-learn-Websit-e)   | This is a Elearn Website which has all material related to education whether it's of Univeristy or Universe    | issued.© 2021 Arshad Khan.
-| [Smart Mirror](https://github.com/The-Arshad-Khan/Smart-mirror)     | In this Project we have automate the mirror using esp32 and add some cool features like google assistant . |
+| [Smart Mirror](https://github.com/The-Arshad-Khan/Smart-mirror-1)     | In this Project we have automate the mirror using esp32 and add some cool features like google assistant . |
 | [Swarm Drone ]()     | Upcomming Soon. 
 
 
