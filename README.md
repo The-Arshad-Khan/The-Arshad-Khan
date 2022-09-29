@@ -6,7 +6,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/the-arshad-khan/" target="_blank"> Arshad Khan </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img width="40%" align="right"   src="code.gif" >
 
-A Small Introduction of  Myself, I am <b>Arshad Khan</b> pursuing <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
+A Small Introduction of  Myself, I am <b>Arshad Khan</b> pursuing <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Pre-Final year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence and Bionics </b> but still, exploring Other domains. ⚡
 
 <h3 align="center">A Passionate Frontend-Web Developer | Artifical Intelligence enthusiast | Researcher </h3>
 
