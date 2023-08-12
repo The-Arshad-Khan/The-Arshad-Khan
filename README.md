@@ -85,7 +85,7 @@ Recently I have started a Community <b> TECHBENCHERS </b>to help fellow mates.Jo
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Arshad-Khan&theme=dark" alt="The-Arshad-Khan" /></p>
   </div>
 
- [![The-Arshad-Khan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=The-Arshad-Khan&theme=xcode)](https://git.io/The-Arshad-Khan)
+[![The-Arshad-Khan's GitHub | Stats](https://stats.quine.sh/The-Arshad-Khan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=The-Arshad-Khan)
 
 <a href="https://github.com/The-Arshad-Khan?tab=followers"><img src="https://img.shields.io/github/followers/The-Arshad-Khan?label=Followers&style=social" alt="GitHub Badge"></a>
 
