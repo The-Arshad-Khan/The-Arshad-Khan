@@ -90,5 +90,5 @@ Recently I have started a Community <b> TECHBENCHERS </b>to help fellow mates.Jo
 <a href="https://github.com/The-Arshad-Khan?tab=followers"><img src="https://img.shields.io/github/followers/The-Arshad-Khan?label=Followers&style=social" alt="GitHub Badge"></a>
 
  Total Views on Profile:<br><br>
-![Visitor Count](https://profile-counter.glitch.me/the-arshad-khan/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/teerthesh706/count.svg)
 
