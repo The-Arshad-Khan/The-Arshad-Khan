@@ -10,7 +10,7 @@ A Small Introduction of  Myself, I am <b>Arshad Khan</b> pursuing <b>Computer Sc
 
 <h3 align="center">A Passionate Frontend-Web Developer | Artifical Intelligence enthusiast | Researcher </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=The-Arshad-Khan&label=Profile%20views&color=6805D3&style=flat" alt="ArshadKhan" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Teerthesh706&label=Profile%20views&color=6805D3&style=flat" alt="ArshadKhan" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
@@ -90,5 +90,5 @@ Recently I have started a Community <b> TECHBENCHERS </b>to help fellow mates.Jo
 <a href="https://github.com/The-Arshad-Khan?tab=followers"><img src="https://img.shields.io/github/followers/The-Arshad-Khan?label=Followers&style=social" alt="GitHub Badge"></a>
 
  Total Views on Profile:<br><br>
-![Visitor Count](https://profile-counter.glitch.me/teerthesh706/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/the-arshad-khan/count.svg)
 
