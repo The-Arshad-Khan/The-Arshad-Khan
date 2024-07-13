@@ -10,7 +10,7 @@ A Small Introduction of  Myself, I am <b>Arshad Khan</b> pursuing <b>Computer Sc
 
 <h3 align="center">A Passionate Frontend-Web Developer | Artifical Intelligence enthusiast | Researcher </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Teerthesh706&label=Profile%20views&color=6805D3&style=flat" alt="ArshadKhan" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=The-Arshad-Khan&label=Profile%20views&color=6805D3&style=flat" alt="ArshadKhan" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
